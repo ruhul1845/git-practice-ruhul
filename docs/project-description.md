@@ -1,9 +1,10 @@
 # Project Description
 
-This project is created for practicing Git and GitHub workflow.
+This project demonstrates:
 
-Features:
 - Git initialization
-- Branching
-- Merging
+- Multiple commits
+- Branch creation
+- Branch merging
+- GitHub integration
 - Calculator functions

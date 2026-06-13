@@ -1,2 +1,11 @@
 __pycache__/
 .env
+.node-modules/
+dist/
+build/
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so

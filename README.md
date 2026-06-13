@@ -1,7 +1,13 @@
 # Git Practice Project
 
-Name: Ruhul Amin
+## Author
+Ruhul Amin
 
 ## Description
+This project demonstrates Git and GitHub workflow.
 
-This project demonstrates Git and GitHub operations including commits, branches, merges, and repository management.
+## Features
+- Calculator functions
+- Git branching
+- Git merging
+- GitHub integration

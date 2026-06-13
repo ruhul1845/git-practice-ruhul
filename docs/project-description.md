@@ -1,5 +1,8 @@
 # Project Description
 
+Author: Ruhul Amin
+
+
 This project demonstrates:
 
 - Git initialization
